@@ -1,0 +1,23 @@
+.App {
+  text-align: left;
+  background: transparentize($color: #000000, $amount: 0.1); 
+  height: 100vh; 
+} 
+
+.sidebar{
+  width: 100px; 
+  background: #282828; 
+  height: 100vh;
+  position: fixed; 
+  top: 0; 
+}
+
+.logo-box{
+  height: 100px; 
+  background: #EB2328; 
+  max-width: 100%;
+  padding: 10px;  
+  .logo{
+    max-width: 100%;
+  }
+}
