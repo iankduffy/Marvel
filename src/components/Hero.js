@@ -20,7 +20,8 @@ class Heros extends Component {
     return (
       <div className="hero-page" style={{backgroundImage: `url(${Background})`}}>
         <div className="intro">
-        <h1>{data.name}</h1>
+        <h1>{data.name.toUpperCase()}</h1>
+        <h2>{data.subheading}</h2>
         <p>{data.description}</p>
         </div>
       </div>

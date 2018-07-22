@@ -3,7 +3,7 @@ import '../styles/Main.scss';
 import { Link } from 'react-router-dom';
 import HeroLink from './Link'
 import Heros from '.././data/super-heros.json'; 
-import Background from '.././images/heros/spiderman.jpg'; 
+import Background from '.././images/Home-image.jpg'; 
 
 // https://stackoverflow.com/questions/47837221/react-router-4-path-with-parameter
 

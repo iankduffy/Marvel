@@ -6,47 +6,188 @@
           "url": "/hero/spider-man",
           "image": "",
           "smallImg": "spiderman.jpg",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porttitor, lacus sit amet fringilla viverra, arcu ex volutpat diam, eu auctor turpis ipsum a ante. Curabitur non augue ligula. Fusce condimentum, leo euismod venenatis venenatis, risus libero mollis dolor, eleifend dignissim nunc urna ut nulla. Duis facilisis mi ut tincidunt bibendum."
+          "subheading": "Bitten by a radioactive spider, Peter Parker’s arachnid abilities give him amazing powers he uses to help others, while his personal life continues to offer plenty of obstacles.",
+          "description": "Peter Benjamin Parker was a high school student and a superhero with spider-like abilities, fighting crime as his alter ego Spider-Man. After receiving his abilities from a spider's bite, Parker chose to protect Queens from crime with his powers, juggling all of his superhero duties and the demands of his high school life. Despite his best efforts to keep his identity secret from the world, he was found and recruited by Tony Stark in the Avengers Civil War, while gaining a new suit and technology in exchange for his help."
        }, 
        {  
         "id":0,
         "name": "Dr Strange",
-        "url": "/hero/Dr Strange",
+        "url": "/hero/Dr-Strange",
         "image": "",
         "smallImg": "dr-strange.jpg",
+        "subheading": "Formerly a renowned surgeon, Doctor Stephen Strange now serves as the Sorcerer Supreme—Earth’s foremost protector against magical and mystical threats.",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porttitor, lacus sit amet fringilla viverra, arcu ex volutpat diam, eu auctor turpis ipsum a ante. Curabitur non augue ligula. Fusce condimentum, leo euismod venenatis venenatis, risus libero mollis dolor, eleifend dignissim nunc urna ut nulla. Duis facilisis mi ut tincidunt bibendum."
      }, 
      {  
       "id":0,
-      "name": "Spider Man",
-      "url": "/hero/spider-m",
+      "name": "Captain America",
+      "url": "/hero/captain-america",
       "image": "",
-      "smallImg": "spiderman.jpg",
+      "smallImg": "captain-america.jpg",
+      "subheading": "Recipient of the Super-Soldier serum, World War II hero Steve Rogers fights for American ideals as one of the world’s mightiest heroes and the leader of the Avengers.",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porttitor, lacus sit amet fringilla viverra, arcu ex volutpat diam, eu auctor turpis ipsum a ante. Curabitur non augue ligula. Fusce condimentum, leo euismod venenatis venenatis, risus libero mollis dolor, eleifend dignissim nunc urna ut nulla. Duis facilisis mi ut tincidunt bibendum."
       }, 
       {  
        "id":0,
-       "name": "Spider Man",
-       "url": "/hero/spider",
+       "name": "Iron Man",
+       "url": "/hero/iron-man",
        "image": "",
-       "smallImg": "spiderman.jpg",
+       "smallImg": "iron-man.jpg",
+       "subheading": "Bitten by a radioactive spider, Peter Parker’s arachnid abilities give him amazing powers he uses to help others, while his personal life continues to offer plenty of obstacles.",
        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porttitor, lacus sit amet fringilla viverra, arcu ex volutpat diam, eu auctor turpis ipsum a ante. Curabitur non augue ligula. Fusce condimentum, leo euismod venenatis venenatis, risus libero mollis dolor, eleifend dignissim nunc urna ut nulla. Duis facilisis mi ut tincidunt bibendum."
     },
        {  
         "id":0,
-        "name": "Spider Man",
-        "url": "/hero/spider",
+        "name": "Scarlet Witch",
+        "url": "/hero/scarlet-witch",
         "image": "",
-        "smallImg": "spiderman.jpg",
+        "smallImg": "scarlet-witch.jpg",
+        "subheading": "Bitten by a radioactive spider, Peter Parker’s arachnid abilities give him amazing powers he uses to help others, while his personal life continues to offer plenty of obstacles.",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porttitor, lacus sit amet fringilla viverra, arcu ex volutpat diam, eu auctor turpis ipsum a ante. Curabitur non augue ligula. Fusce condimentum, leo euismod venenatis venenatis, risus libero mollis dolor, eleifend dignissim nunc urna ut nulla. Duis facilisis mi ut tincidunt bibendum."
      }, 
      {  
       "id":0,
-      "name": "Spider Man",
-      "url": "/hero/spider",
+      "name": "War Machine",
+      "url": "/hero/war-machine",
       "image": "",
-      "smallImg": "spiderman.jpg",
+      "smallImg": "war-machine.jpg",
+      "subheading": "Bitten by a radioactive spider, Peter Parker’s arachnid abilities give him amazing powers he uses to help others, while his personal life continues to offer plenty of obstacles.",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porttitor, lacus sit amet fringilla viverra, arcu ex volutpat diam, eu auctor turpis ipsum a ante. Curabitur non augue ligula. Fusce condimentum, leo euismod venenatis venenatis, risus libero mollis dolor, eleifend dignissim nunc urna ut nulla. Duis facilisis mi ut tincidunt bibendum."
-   }
+   }, 
+   {  
+    "id":0,
+    "name": "Thor",
+    "url": "/hero/thor",
+    "image": "",
+    "smallImg": "thor.jpg",
+    "subheading": "Bitten by a radioactive spider, Peter Parker’s arachnid abilities give him amazing powers he uses to help others, while his personal life continues to offer plenty of obstacles.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porttitor, lacus sit amet fringilla viverra, arcu ex volutpat diam, eu auctor turpis ipsum a ante. Curabitur non augue ligula. Fusce condimentum, leo euismod venenatis venenatis, risus libero mollis dolor, eleifend dignissim nunc urna ut nulla. Duis facilisis mi ut tincidunt bibendum."
+    }, 
+    {  
+     "id":0,
+     "name": "Star Lord",
+     "url": "/hero/star-lord",
+     "image": "",
+     "smallImg": "star-lord.jpg",
+     "subheading": "Bitten by a radioactive spider, Peter Parker’s arachnid abilities give him amazing powers he uses to help others, while his personal life continues to offer plenty of obstacles.",
+     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porttitor, lacus sit amet fringilla viverra, arcu ex volutpat diam, eu auctor turpis ipsum a ante. Curabitur non augue ligula. Fusce condimentum, leo euismod venenatis venenatis, risus libero mollis dolor, eleifend dignissim nunc urna ut nulla. Duis facilisis mi ut tincidunt bibendum."
+    }, 
+    {  
+     "id":0,
+     "name": "Gamora",
+     "url": "/hero/gamora",
+     "image": "",
+     "smallImg": "gamora.jpg",
+     "subheading": "Bitten by a radioactive spider, Peter Parker’s arachnid abilities give him amazing powers he uses to help others, while his personal life continues to offer plenty of obstacles.",
+     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porttitor, lacus sit amet fringilla viverra, arcu ex volutpat diam, eu auctor turpis ipsum a ante. Curabitur non augue ligula. Fusce condimentum, leo euismod venenatis venenatis, risus libero mollis dolor, eleifend dignissim nunc urna ut nulla. Duis facilisis mi ut tincidunt bibendum."
+    }, 
+    {  
+     "id":0,
+     "name": "Black Widow",
+     "url": "/hero/black-widow",
+     "image": "",
+     "smallImg": "black-widow.jpg",
+     "subheading": "Bitten by a radioactive spider, Peter Parker’s arachnid abilities give him amazing powers he uses to help others, while his personal life continues to offer plenty of obstacles.",
+     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porttitor, lacus sit amet fringilla viverra, arcu ex volutpat diam, eu auctor turpis ipsum a ante. Curabitur non augue ligula. Fusce condimentum, leo euismod venenatis venenatis, risus libero mollis dolor, eleifend dignissim nunc urna ut nulla. Duis facilisis mi ut tincidunt bibendum."
+    }, 
+    {  
+     "id":0,
+     "name": "Bucky",
+     "url": "/hero/bucky",
+     "image": "",
+     "smallImg": "bucky.jpg",
+     "subheading": "Bitten by a radioactive spider, Peter Parker’s arachnid abilities give him amazing powers he uses to help others, while his personal life continues to offer plenty of obstacles.",
+     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porttitor, lacus sit amet fringilla viverra, arcu ex volutpat diam, eu auctor turpis ipsum a ante. Curabitur non augue ligula. Fusce condimentum, leo euismod venenatis venenatis, risus libero mollis dolor, eleifend dignissim nunc urna ut nulla. Duis facilisis mi ut tincidunt bibendum."
+    }, 
+    {  
+     "id":0,
+     "name": "Drax",
+     "url": "/hero/drax",
+     "image": "",
+     "smallImg": "drax.jpg",
+     "subheading": "Bitten by a radioactive spider, Peter Parker’s arachnid abilities give him amazing powers he uses to help others, while his personal life continues to offer plenty of obstacles.",
+     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porttitor, lacus sit amet fringilla viverra, arcu ex volutpat diam, eu auctor turpis ipsum a ante. Curabitur non augue ligula. Fusce condimentum, leo euismod venenatis venenatis, risus libero mollis dolor, eleifend dignissim nunc urna ut nulla. Duis facilisis mi ut tincidunt bibendum."
+    }, 
+    {  
+     "id":0,
+     "name": "Groot And Rocket",
+     "url": "/hero/groot-rocket",
+     "image": "",
+     "smallImg": "groot-rocket.jpg",
+     "subheading": "Bitten by a radioactive spider, Peter Parker’s arachnid abilities give him amazing powers he uses to help others, while his personal life continues to offer plenty of obstacles.",
+     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porttitor, lacus sit amet fringilla viverra, arcu ex volutpat diam, eu auctor turpis ipsum a ante. Curabitur non augue ligula. Fusce condimentum, leo euismod venenatis venenatis, risus libero mollis dolor, eleifend dignissim nunc urna ut nulla. Duis facilisis mi ut tincidunt bibendum."
+    }, 
+    {  
+     "id":0,
+     "name": "Hulk",
+     "url": "/hero/hulk",
+     "image": "",
+     "smallImg": "hulk.jpg",
+     "subheading": "Bitten by a radioactive spider, Peter Parker’s arachnid abilities give him amazing powers he uses to help others, while his personal life continues to offer plenty of obstacles.",
+     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porttitor, lacus sit amet fringilla viverra, arcu ex volutpat diam, eu auctor turpis ipsum a ante. Curabitur non augue ligula. Fusce condimentum, leo euismod venenatis venenatis, risus libero mollis dolor, eleifend dignissim nunc urna ut nulla. Duis facilisis mi ut tincidunt bibendum."
+    }, 
+    {  
+     "id":0,
+     "name": "Nubula",
+     "url": "/hero/nubula",
+     "image": "",
+     "smallImg": "nubula.jpg",
+     "subheading": "Bitten by a radioactive spider, Peter Parker’s arachnid abilities give him amazing powers he uses to help others, while his personal life continues to offer plenty of obstacles.",
+     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porttitor, lacus sit amet fringilla viverra, arcu ex volutpat diam, eu auctor turpis ipsum a ante. Curabitur non augue ligula. Fusce condimentum, leo euismod venenatis venenatis, risus libero mollis dolor, eleifend dignissim nunc urna ut nulla. Duis facilisis mi ut tincidunt bibendum."
+    }, 
+    {  
+     "id":0,
+     "name": "Shuri",
+     "url": "/hero/shuri",
+     "image": "",
+     "smallImg": "shuri.jpg",
+     "subheading": "Bitten by a radioactive spider, Peter Parker’s arachnid abilities give him amazing powers he uses to help others, while his personal life continues to offer plenty of obstacles.",
+     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porttitor, lacus sit amet fringilla viverra, arcu ex volutpat diam, eu auctor turpis ipsum a ante. Curabitur non augue ligula. Fusce condimentum, leo euismod venenatis venenatis, risus libero mollis dolor, eleifend dignissim nunc urna ut nulla. Duis facilisis mi ut tincidunt bibendum."
+    }, 
+    {  
+     "id":0,
+     "name": "Falcon",
+     "url": "/hero/falcon",
+     "image": "",
+     "smallImg": "falcon.jpg",
+     "subheading": "Bitten by a radioactive spider, Peter Parker’s arachnid abilities give him amazing powers he uses to help others, while his personal life continues to offer plenty of obstacles.",
+     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porttitor, lacus sit amet fringilla viverra, arcu ex volutpat diam, eu auctor turpis ipsum a ante. Curabitur non augue ligula. Fusce condimentum, leo euismod venenatis venenatis, risus libero mollis dolor, eleifend dignissim nunc urna ut nulla. Duis facilisis mi ut tincidunt bibendum."
+    }, 
+    {  
+     "id":0,
+     "name": "Black Panther",
+     "url": "/hero/black-panther",
+     "image": "",
+     "smallImg": "black-panther.jpg",
+     "subheading": "Bitten by a radioactive spider, Peter Parker’s arachnid abilities give him amazing powers he uses to help others, while his personal life continues to offer plenty of obstacles.",
+     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porttitor, lacus sit amet fringilla viverra, arcu ex volutpat diam, eu auctor turpis ipsum a ante. Curabitur non augue ligula. Fusce condimentum, leo euismod venenatis venenatis, risus libero mollis dolor, eleifend dignissim nunc urna ut nulla. Duis facilisis mi ut tincidunt bibendum."
+    }, 
+    {  
+     "id":0,
+     "name": "Vision",
+     "url": "/hero/vision",
+     "image": "",
+     "smallImg": "vision.jpg",
+     "subheading": "Bitten by a radioactive spider, Peter Parker’s arachnid abilities give him amazing powers he uses to help others, while his personal life continues to offer plenty of obstacles.",
+     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porttitor, lacus sit amet fringilla viverra, arcu ex volutpat diam, eu auctor turpis ipsum a ante. Curabitur non augue ligula. Fusce condimentum, leo euismod venenatis venenatis, risus libero mollis dolor, eleifend dignissim nunc urna ut nulla. Duis facilisis mi ut tincidunt bibendum."
+    }, 
+    {  
+     "id":0,
+     "name": "Mantis",
+     "url": "/hero/mantis",
+     "image": "",
+     "smallImg": "mantis.jpg",
+     "subheading": "Bitten by a radioactive spider, Peter Parker’s arachnid abilities give him amazing powers he uses to help others, while his personal life continues to offer plenty of obstacles.",
+     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porttitor, lacus sit amet fringilla viverra, arcu ex volutpat diam, eu auctor turpis ipsum a ante. Curabitur non augue ligula. Fusce condimentum, leo euismod venenatis venenatis, risus libero mollis dolor, eleifend dignissim nunc urna ut nulla. Duis facilisis mi ut tincidunt bibendum."
+    }, 
+    {  
+     "id":0,
+     "name": "Wong",
+     "url": "/hero/wong",
+     "image": "",
+     "smallImg": "wong.jpg",
+     "subheading": "Bitten by a radioactive spider, Peter Parker’s arachnid abilities give him amazing powers he uses to help others, while his personal life continues to offer plenty of obstacles.",
+     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porttitor, lacus sit amet fringilla viverra, arcu ex volutpat diam, eu auctor turpis ipsum a ante. Curabitur non augue ligula. Fusce condimentum, leo euismod venenatis venenatis, risus libero mollis dolor, eleifend dignissim nunc urna ut nulla. Duis facilisis mi ut tincidunt bibendum."
+    }
     ]
  }
