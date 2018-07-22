@@ -1,3 +1,20 @@
 .main{
-  margin-left: 100px; 
+  margin-left: 100px;
+  padding: 2.5%;
+}
+
+.intro{
+  width: 50%; 
+  color: #fff;
+  margin-bottom: 5%; 
+  h1{
+    font-size: 4rem;
+    margin: 0; 
+    font-weight: 300; 
+  }
+}
+
+.hero-list{
+  display: flex;
+  justify-content: space-between; 
 }

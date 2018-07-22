@@ -3,3 +3,8 @@
   background: transparentize($color: #000000, $amount: 0.1); 
   height: 100vh; 
 } 
+
+img{
+  max-width: 100%;
+  transition: 500ms; 
+}

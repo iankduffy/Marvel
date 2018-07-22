@@ -1,0 +1,11 @@
+.hero-link{
+  width: 12.5vw; 
+  height: 12.5vw; 
+  border: #fff 10px solid;
+  overflow: hidden; 
+  &:hover{
+    img{
+      transform: scale(1.1); 
+    }
+  }
+}
